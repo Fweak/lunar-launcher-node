@@ -1,3 +1,4 @@
+// men code is bad :c! i know..
 const os = require('process')
 const path = require('path')
 const fs = require('fs')
