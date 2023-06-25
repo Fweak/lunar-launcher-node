@@ -10,7 +10,6 @@ What it does:<br>
   - Spawns an instance of `"Lunar Client.exe"` with arg: **`--remote-debuging-port=<PORT>`**
   - Finds `Websocket Debug Url` and connects to it.
   - Executes the [payload.js](payload.js) through the websocket conn.
-  - Bootup minecraft from the opened Lunar instance and boom. Connected
 
 Usages:
   + Load external ***[client java agents](https://github.com/Nilsen84/lunar-client-agents])***
