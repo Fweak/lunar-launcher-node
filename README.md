@@ -12,6 +12,6 @@ What it does:<br>
   - Executes the [payload.js](payload.js) through the websocket conn.
 
 Usages:
-  + Load external ***[client java agents](https://github.com/Nilsen84/lunar-client-agents])***
+  + Load external ***[client java agents](https://github.com/Nilsen84/lunar-client-agents)***
     - ***[Weave-Loader](https://github.com/Weave-MC/Weave-Loader)***
   + mod lunar client 💋
